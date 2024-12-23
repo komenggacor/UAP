@@ -1,1 +1,1 @@
-
+program ini bertujuan untuk membantu coffeshop agar dapat mempermudah kasir untuk menginputkan pesanan dari kliennya,lalu pada code tersebut terdapat penambahan library pada class GenerateNotaAction nah  library yang ditambahkan itu bertujuan agar pesanan klien dapat di inputkan ke dokumen. Library yang ditambahkan yaitu (import org.apache.poi.xwpf)
